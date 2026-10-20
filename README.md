@@ -11,6 +11,7 @@ I'm passionate about data, artificial intelligence, and building intelligent sol
 
 **[Data Science Salary Analysis](https://github.com/nouhailaprobi/Ai-tool-usage-analysis)** — An in-depth exploration of Data Science salaries using Python, featuring statistical analysis, multidimensional visualizations, PCA, and temporal and geographical insights.
 
+**[Credit Card Fraud Detection](https://github.com/nouhailaprobi/credit-card-fraud-detection)** — A comparative machine learning analysis of credit card transactions, applying six classification algorithms and class balancing techniques to improve fraud detection, with Random Forest achieving the best overall performance.
 
 
 ---
