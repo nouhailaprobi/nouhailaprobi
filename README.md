@@ -7,6 +7,10 @@ I'm passionate about data, artificial intelligence, and building intelligent sol
 
 ## Projects
 
+**[AI Tool Usage Analysis](https://github.com/nouhailaprobi/Ai-tool-usage-analysis)** — An analytical study of AI adoption among college students, combining exploratory data analysis, Random Forest prediction, and K-Means clustering to identify usage patterns.
+
+**[Data Science Salary Analysis](https://github.com/nouhailaprobi/Ai-tool-usage-analysis)** — An in-depth exploration of Data Science salaries using Python, featuring statistical analysis, multidimensional visualizations, PCA, and temporal and geographical insights.
+
 
 
 ---
